@@ -1,0 +1,4 @@
+interface:
+  display_name: "社会第一课"
+  short_description: "按时间线拆开做局手段与心理，逐步指出当时能怎么破局，没停又可能怎么发展"
+  default_prompt: "用 $zh-anti-fraud 帮我分析。我会说想听详细拆解还是大白话。请说明事情在哪一步变了、我要核实什么、从哪一步可以停。"
